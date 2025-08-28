@@ -576,3 +576,4 @@ class GalleryPage extends StatelessWidget {
         child: ClipRRect(borderRadius: BorderRadius.circular(12), child: child),
       );
 }
+
