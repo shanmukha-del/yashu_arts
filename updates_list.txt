@@ -1,0 +1,44 @@
+Website Update Notes - Yashu Arts
+
+Update Date: 2025-08-20
+Feature 1: Artist Upload Button + Login Page
+
+Description:
+
+Added "Artist Upload" button on Home Page.
+
+Clicking the button opens a separate login page for artists.
+
+After providing correct credentials, the user is redirected to Upload Page.
+
+Files Changed: lib/main.dart
+
+Tested Locally: ✅
+
+GitHub Commit Message: "Feature: Added Artist Upload button with login redirect"
+
+Notes / Remarks:
+
+Artist login uses username & password check in LoginPage.
+
+Upload page allows multi-image selection from gallery & camera.
+
+Feature 2: Home Page "Coming Soon" Dialog
+
+Description:
+
+Added a pop-up dialog on Home Page that shows "🎨 Coming Soon!".
+
+Appears 1 second after opening the app.
+
+Files Changed: lib/main.dart
+
+Tested Locally: ✅
+
+GitHub Commit Message: "Feature: Added Coming Soon dialog on Home Page"
+
+Notes / Remarks:
+
+Dialog uses AlertDialog with purple background and orange button.
+
+Only shows once per app launch.

@@ -1,0 +1,9 @@
+# Yashu Arts Website Changelog
+
+## Version 1.0.0 - 2025-08-19
+- Initial launch of website
+- Pages: Home, About, Register, Gallery
+
+## Version 1.1.0 - 2025-08-20
+- Feature: Added Artist Upload button
+- Feature: Home Page "Coming Soon" dialog
